@@ -1,4 +1,4 @@
-# Hello, I'm a python-developer:
+# Hello, I'm a python-developer
 ## Technology:
  * Python
  * Django
